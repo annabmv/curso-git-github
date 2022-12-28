@@ -14,4 +14,4 @@ Adiciona todos os arquivos para a esteira de commit.
 Adiciona um arquivo específico.
 
 ### **3)**
-    git commit
+    git commit -m [descrição do commit]
