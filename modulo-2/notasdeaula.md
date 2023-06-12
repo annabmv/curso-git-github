@@ -113,3 +113,21 @@ Passo 3:
 
 ### **Comandos mais utilizados: *git push e git pull***
 
+        git push
+
+> Enviar os arquivos *commitados* para o GitHub.
+
+
+        git pull
+
+> Atualizar o repositório local com o remoto.
+
+- Necessário conectar branch local com a remota (upstream) para ambos os caomandos.
+
+## **Aula 8**
+
+### **Recursos adicionais**
+
+- [Guia de comandos básicos para iniciantes.](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile)
+
+- [.gitignore: Ignorando arquivos no Git.](https://dev.to/womakerscode/tutorial-git-ignorando-arquivos-no-git-32m9)
