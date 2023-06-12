@@ -108,3 +108,8 @@ Passo 3:
 - No GitHub todos os *commits* realizados ficam registrados.
 
 - Existe um código único para cada *commit*.
+
+## **Aula 7**
+
+### **Comandos mais utilizados: *git push e git pull***
+
