@@ -133,8 +133,8 @@ Para conferir:
 
 ## **Materiais complementares**
 
-- Instalação, configuração e inicialização do Git no Windows: [acesse aqui](https://dev.to/womakerscode/tutorial-instalando-configurando-e-inicializando-o-git-no-windows-57cj)
+- [Instalação, configuração e inicialização do Git no Windows.](https://dev.to/womakerscode/tutorial-instalando-configurando-e-inicializando-o-git-no-windows-57cj)
 
-- Instalação do GitHub Desktop para Windows: [acesse aqui](https://dev.to/womakerscode/instalacao-do-github-desktop-para-windows-2nhp)
+- [Instalação do GitHub Desktop para Windows.](https://dev.to/womakerscode/instalacao-do-github-desktop-para-windows-2nhp)
 
-- Guia e comandos básicos para iniciantes: [acesse aqui](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile)
+- [Guia e comandos básicos para iniciantes.](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile)
