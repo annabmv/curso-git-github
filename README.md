@@ -2,8 +2,6 @@
 
 ## Repositório referente ao curso sobre Git e GitHub ministrado para o Bootcamp de Data Analytics ([WoMakersCode](https://womakerscode.org/)).
 
----
-
 ### **Foram abordados os seguintes tópicos:**
 
 | Módulo | Descrição | 
