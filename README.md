@@ -16,5 +16,3 @@
 | Módulo 6 | Revisão do conteúdo e dicas. |
 
 - A maior parte do curso foi realizada utilizando o VS Code.
-
-> ⚠ Esse repositório está sendo atualizado!
